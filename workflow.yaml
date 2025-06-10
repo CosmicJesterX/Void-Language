@@ -1,0 +1,12 @@
+
+---
+
+### 💀 Bonus Tips:
+- Legg en `VOID_NOTICE.txt` i repoet som bare sier:  
+  > _"This project is not intended to be understood. Proceed only with silence."_
+
+- Gjem en `fog.sh`-script som bare printer `"mist...mist...mist..."` i loop.
+
+Vil du jeg skal hjelpe deg generere et GitHub-actions workflow som aldri returnerer konklusjon – bare “status: unclear”? 😏
+
+Eller skal jeg lage en CLI-kommando for `summon-fog`?
