@@ -1,0 +1,15 @@
+{
+  "status": "sand_explosion",
+  "error": {
+    "code": 666,
+    "message": "Entity tripped on undefined object: surpe",
+    "mood": "confused and sticky"
+  },
+  "entity": "cosmic_jester",
+  "remedy": [
+    "Apply syrup to logic gate",
+    "Reboot with existential dread",
+    "Summon InvisiblePancake for clarity"
+  ],
+  "fun_fact": "VoidLang compiles best when ignored."
+}
