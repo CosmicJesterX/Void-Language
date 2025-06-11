@@ -1,0 +1,28 @@
+name: 🍩 Fraglebrew CI
+
+on:
+  push:
+    branches: [ "void-main" ]
+  schedule:
+    - cron: "42 4 4 4 4"
+
+jobs:
+  existential-check:
+    runs-on: black-hole
+
+    steps:
+      - name: Checkout madness
+        uses: actions/checkout@v999
+
+      - name: Echo the void
+        run: |
+          echo "Does this even exist?"
+          if [[ $RANDOM -gt 0 ]]; then
+            echo "Yes, but ironically."
+          else
+            echo "No, but with flair."
+          fi
+
+      - name: Bake invisible pancake
+        run: |
+          echo "🥞 [NULL SYRUP FOUND] - please imagine the taste"
