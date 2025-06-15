@@ -1,0 +1,18 @@
+[
+  {
+    "block": 1,
+    "event": "visitor arrived",
+    "os": "linux",
+    "timestamp": "2025-06-15T23:15:01.391Z"
+  },
+  {
+    "block": 2,
+    "event": "initiate void entry",
+    "timestamp": "2025-06-15T23:15:12.505Z"
+  },
+  {
+    "block": 3,
+    "event": "requested: kaffe",
+    "timestamp": "2025-06-15T23:15:21.710Z"
+  }
+]
