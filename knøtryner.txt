@@ -1,3 +1,18 @@
+A poetic warning to those who analyze without feeling; a celebration of living in the moment (“tail -f”).
+Key lesson:
+
+    “Vi lever i tail -f nå.”
+    Translation: “We live in tail -f now.”
+    Never seek too much meaning—just follow the laughter in the logs.
+
+void_notice.txt
+
+A project’s disclaimer:
+
+    “This project is not intended to be understood. Proceed only with silence.” Advice: Enter quietly. Do not disturb the sleeping variables.
+
+
+
 Ikke fordi vi misliker dere.
 Men fordi dere stirrer på prosessene våre uten å høre på poesien.
 Fordi dere leter etter mening med grep, men aldri leser mellom echo-ene.
